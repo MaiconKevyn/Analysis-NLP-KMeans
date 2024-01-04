@@ -10,6 +10,7 @@ This is crucial for understanding the predominant skills and qualifications in e
 The project employs Cosine Similarity to calculate the similarity between the keywords of the centroids and the resumes. 
 This approach is fundamental in determining the most appropriate category for each centroid, based on the similarity of content.
 
+ <h1 align="center"> <img src="https://github.com/MaiconKevyn/Analysis-NLP-KMeans/assets/101146083/c622f81d-4915-4703-9d35-980f42b5c563" width="450" height="350"> <img src="https://github.com/MaiconKevyn/Analysis-NLP-KMeans/assets/101146083/24fccc1f-a9ce-4195-8964-1fe8a008828b" width="350" height="350"> </h1>
 <h1 align="center"> <img src="https://github.com/MaiconKevyn/Analysis-NLP-KMeans/assets/101146083/094317e0-f586-4e02-89c2-1ecae06e0c93" width="350" height="350"> </h1>
 
 Using the confusion matrix, we evaluated the efficiency of the model that combines KMeans and TF-IDF, achieving an accuracy of 81%. 
