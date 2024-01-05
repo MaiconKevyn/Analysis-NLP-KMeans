@@ -1,7 +1,7 @@
 ## Analysis and Validation of Resumes with Natural Language Process and Clustering 
 ## 
 
-This project utilizes Natural Language Processing (NLP) and Clusterig for an effective analysis of resumes. The central method is TF-IDF and KMeans, which identifies the most relevant words in the resumes. 
+This project utilizes Natural Language Processing (NLP) and Clusterig for an effective analysis of resumes. The central method is TF-IDF and KMeans, which identifies the most relevant words in the resumes and clustering the data. 
 Following this, clustering is done using the K-Means algorithm, grouping the resumes based on their textual characteristics.
 
 A key step is the analysis of the centroids of each cluster, where words with high TF-IDF values are extracted. 
